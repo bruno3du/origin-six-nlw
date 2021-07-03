@@ -1,4 +1,4 @@
-// **Origin Six** //
+# **Origin Six** 
 
 Uma aplicação one page, que tem como finalidade entregar ao cliente uma solução de baixa complexidade para seu serviço, é entregue uma ambientação agradável ao usuário, sem faltar interação e experiência que torna o site ainda mais diferenciado.
 
@@ -14,5 +14,12 @@ Foi utilizado framework Swipper para auxiliar na criação slider/carrossel.
 Acesse o link a seguir e veja você mesmo o trabalho que foi desenvolvido com conhecimentos básico da programação: https://bruno3du.github.io/origin-six-nlw/
 
 
+### TO DESKTOP
+<p align="center">
+  <img src="https://i.imgur.com/EsD2K2F.gif">
+</p>
 
-
+<h2 align="center"> TO MOBILE <h2>
+<p align="center">
+  <img src="https://imgur.com/6jzxO3l.gif">
+</p>
